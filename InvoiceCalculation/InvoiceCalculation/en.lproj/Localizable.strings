@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  InvoiceCalculation
+
+  Created by Hehuimin on 2019/9/29.
+  Copyright © 2019 Hehuimin. All rights reserved.
+*/
+
+"NavTitle" = "Invoice Calculation";
+"TargetTitle" = "Target Amount:";
+"InvoiceTitle" = "Invoice Amount:";
+"Inquire" = "Inquire";
+"TargetPlaceholder" = "Please enter the target amount";
+"InvoicePlaceholder" = "Please enter the invoice amount, separated by commas";
+"ResultTitle" = "Return to the top 50 data:";
+"Total" = "Total:";
+"Combination" = "Combination:";
+"Change" = "Change";
+"Introduction" = "Find the best solution from several invoices to match the target amount";
